@@ -176,4 +176,4 @@ This scraper feeds into the **Intelligent Legal Research RAG System** — my MPh
 ## 👩‍💻 Author
 
 **Hafsa** — MPhil Data Science | NLP & AI Engineer | Lahore, Pakistan
-🔗 [LinkedIn](https://linkedin.com/in/hafsa904) | 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](https://linkedin.com/in/hafsa904) | 🐙 [GitHub](https://github.com/hafsa3368)
