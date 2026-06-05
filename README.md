@@ -1,4 +1,4 @@
-# 🕷️ Legal Documents Web Scraper —Pakistan High Court (SHC)
+# 🕷️ Legal Documents Web Scraper —Pakistan High Court 
 
 > A production-grade Selenium scraper that auto-downloads and classifies 60,000+ Pakistani court judgments from the Sindh High Court and lahore high court etc case law database — because the dataset didn't exist, so I built it.
 
