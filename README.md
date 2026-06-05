@@ -123,7 +123,7 @@ Pagination — "Next" button auto-clicked until no more pages
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/legal-web-scraper.git
+git clone https://github.com/hafsa3368/legal-web-scraper.git
 cd legal-web-scraper
 
 # Install dependencies
